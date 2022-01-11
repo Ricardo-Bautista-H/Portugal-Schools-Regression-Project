@@ -1,0 +1,1 @@
+Personal Data Science project aiming to the use of Regression to predict the final grade of students of two schools of Portugal
